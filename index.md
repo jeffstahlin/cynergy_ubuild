@@ -34,13 +34,15 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <strong>Swap &amp; Switch<span class="light">&nbsp;</span></strong><span
-    class="light">the Blocks to create sites quickly</span>
-  content: Quickly assemble and create custom sites with 16 design blocks for seven
-    different sections.
+  headline: "<strong>Scope of optimization</strong> Services for CAMWorks"
+  content: Customized Post Processors for nearly any type of Machine, like Milling,
+    Turning, Mill-turn, Routers, Water Jets and EDM<br><br>Machine specific tooling
+    and strategies defined in the TechDB Technology database<br><br>Creation of Machine
+    Model for G-Code simulation and verification<br><br>User defined Setup sheet templates
+    in XML or Excel format<br><br>On site system implementation and testing on request
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2019/10/19/1.jpg"
+    alt_text: Services for CAMWorks
 - template: content-feature
   block: feature-1
   media_alignment: Right

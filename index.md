@@ -34,7 +34,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: "<strong>Scope of optimization</strong> Services for CAMWorks"
+  headline: "<strong>Scope of optimization</strong> <br>Services for CAMWorks"
   content: Customized Post Processors for nearly any type of Machine, like Milling,
     Turning, Mill-turn, Routers, Water Jets and EDM<br><br>Machine specific tooling
     and strategies defined in the TechDB Technology database<br><br>Creation of Machine

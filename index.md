@@ -54,16 +54,29 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/edit.gif"
     alt_text: Customize Blocks
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Milling Standard Post Processors
+  content: Fanuc or Fanuc compatible, Heidenhain and Siemens for Milling Machines
+    from 3 to 5 Axis continuous<br><br>These standard posts can be customized and
+    adapted to each specific machine<br><br>User defined header<br><br>Tool list including
+    tool information like description diameter, protrusion etc…<br><br><strong>Header
+    and tooling information help the operator to quickly verify if the machine is
+    equipped with the right tools for example</strong>
+  media:
+    image: ''
+    alt_text: ''
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2018/06/21/theme.png"
+  caption: All Available Blocks
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2018/06/21/theme.png"
-  caption: All Available Blocks
 - template: detail-content
   block: text-1
   headline: Steps to Build a Site!

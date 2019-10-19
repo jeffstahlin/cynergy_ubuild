@@ -39,7 +39,8 @@ page_sections:
     Turning, Mill-turn, Routers, Water Jets and EDM<br><br>Machine specific tooling
     and strategies defined in the TechDB Technology database<br><br>Creation of Machine
     Model for G-Code simulation and verification<br><br>User defined Setup sheet templates
-    in XML or Excel format<br><br>On site system implementation and testing on request
+    in XML or Excel format<br><br>On site system implementation and testing on request<br><br><strong>Manufacturing
+    process optimization</strong>
   media:
     image: "/uploads/2019/10/19/1.jpg"
     alt_text: Services for CAMWorks

@@ -65,7 +65,7 @@ page_sections:
     and tooling information help the operator to quickly verify if the machine is
     equipped with the right tools for example</strong>
   media:
-    image: ''
+    image: "/uploads/2019/10/19/3.png"
     alt_text: ''
 - template: full-width-media-element
   block: media-1
